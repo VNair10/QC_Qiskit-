@@ -1,4 +1,2 @@
 # QC_Qiskit
-Deutsch Jozsa - 
-Grover - 
-Teleportation - 
+https://qiskit.org/textbook/preface.html
